@@ -1,0 +1,43 @@
+
+/* Field display */
+.field .field-label {
+  font-weight: bold;
+}
+.field-label-inline .field-label,
+.field-label-inline .field-items {
+  float:left; /*LTR*/
+}
+
+/* Form display */
+form .field-multiple-table {
+  margin: 0;
+}
+form .field-multiple-table th.field-label {
+  padding-left: 0; /*LTR*/
+}
+form .field-multiple-table td.field-multiple-drag {
+  width: 30px;
+  padding-right: 0; /*LTR*/
+}
+form .field-multiple-table td.field-multiple-drag a.tabledrag-handle {
+  padding-right: .5em; /*LTR*/
+}
+
+form .field-add-more-submit {
+  margin: .5em 0 0;
+}
+
+
+/*
+playback timings (ms):
+  captures_list: 100.595
+  exclusion.robots: 0.138
+  exclusion.robots.policy: 0.127
+  RedisCDXSource: 1.94
+  esindex: 0.01
+  LoadShardBlock: 74.528 (3)
+  PetaboxLoader3.datanode: 77.398 (4)
+  CDXLines.iter: 20.973 (3)
+  load_resource: 112.565
+  PetaboxLoader3.resolve: 44.662
+*/

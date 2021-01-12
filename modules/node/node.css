@@ -1,0 +1,25 @@
+
+.node-unpublished {
+  background-color: #fff4f4;
+}
+.preview .node {
+  background-color: #ffffea;
+}
+td.revision-current {
+  background: #ffc;
+}
+
+
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 100.268 (4)
+  esindex: 0.02
+  RedisCDXSource: 1.266
+  LoadShardBlock: 111.605 (3)
+  captures_list: 147.946
+  exclusion.robots.policy: 0.281
+  load_resource: 60.856
+  PetaboxLoader3.resolve: 38.853
+  exclusion.robots: 0.302
+  CDXLines.iter: 29.675 (3)
+*/

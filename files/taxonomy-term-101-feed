@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://360.optimalegal.co.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Optima Legal - tenants</title>
+ <link>https://360.optimalegal.co.uk/tags/tenants</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Are you prepared? The Government&#039;s Minimum Energy Efficiency Standards Update set to impact lenders, commercial landlords and tenants from 1 April 2018</title>
+ <link>https://360.optimalegal.co.uk/news-insights/insights/are-you-prepared-governments-minimum-energy-efficiency-standards-update-set</link>
+ <description>&lt;!--
+THIS FILE IS NOT USED AND IS HERE AS A STARTING POINT FOR CUSTOMIZATION ONLY.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme&#039;s folder and customizing it, remove this
+HTML comment.
+--&gt;
+&lt;div class=&quot;field field-name-field-date-published field-type-date field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-11-14T11:00:00+00:00&quot;&gt;November 2017&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--
+THIS FILE IS NOT USED AND IS HERE AS A STARTING POINT FOR CUSTOMIZATION ONLY.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme&#039;s folder and customizing it, remove this
+HTML comment.
+--&gt;
+&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/commercial-property&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Commercial Property&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/mees&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;MEES&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/landlords&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;landlords&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/tenants&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;tenants&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/lenders&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;lenders&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;!--
+THIS FILE IS NOT USED AND IS HERE AS A STARTING POINT FOR CUSTOMIZATION ONLY.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme&#039;s folder and customizing it, remove this
+HTML comment.
+--&gt;
+&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Department for Business has recently issued guidance on the Energy &amp;amp; Industrial Strategy (Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015 (“&lt;strong&gt;the Regulations&lt;/strong&gt;”). The Regulations are known as the Minimum Energy Efficiency Standards (MEES) and relate to the minimum level of energy efficiency a building is required to have as recorded in its Energy Performance Certificate (EPC) to enable a landlord to let commercial property.  The Regulations will have a major impact on landlords, tenants and lenders.&lt;/p&gt;&lt;p&gt;Under the Regulations: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;From 1 April 2018, unless the landlord registers an exemption, landlords of commercial properties must not renew existing tenancies or grant new tenancies if the property has an EPC rating of band F or G unless the landlord registers an exemption.&lt;/li&gt;&lt;li&gt;From 1 April 2023, unless the landlord registers an exemption, landlords must no longer let or continue to let commercial property which has an EPC rating of band F or G unless the landlord registers an exemption.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Where a building falls short of the Regulations, the landlord must carry out works to improve the building’s energy efficiency performance or pay a fine enforced by Local Authorities.  The fines could prove to be quite substantial - up to £50,000 per property for a breach of up to 3 months and up to £150,000 per property for a breach of 3 months and over. &lt;/p&gt;&lt;p&gt;There are several implications, likely to impact lenders, landlords and tenants because of the new Regulations, including: &lt;/p&gt;&lt;p&gt;For Lenders&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Where commercial property does not meet the required standards lenders could face a reduction in the value of their security in that the landlord may lose the ability to let the property and therefore make repayments due to loss of rental income and additional capital expenditure costs.&lt;/li&gt;&lt;li&gt;Should lenders take possession of a property due to a breach in their lending terms and conditions they will be subject to the Regulations themselves.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For Landlords&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Landlords may find themselves financially out of pocket for the cost of upgrading their commercial property falling below the required standards.&lt;/li&gt;&lt;li&gt;They may be faced with a potential loss of income if the property cannot be let.&lt;/li&gt;&lt;li&gt;Consideration will need to be given to provisions in existing leases as they may affect the statutory obligations of landlords under the Regulations and how landlords can deal with any adverse existing provisions.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For Tenants&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Tenants must consider if the commercial property they occupy meets the required standards. If it doesn’t, a landlord will be required to carry out improvement works to the property which may lead to disruption of the tenant’s business. &lt;/li&gt;&lt;li&gt;Post April 2023, tenants occupying property below the required standards may find that they must find alternative premises should their landlord fail to carry out the necessary improvement works. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;In conclusion&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Whilst the 1 April 2018 is fast approaching there is still sufficient time for both lenders and commercial landlords to ensure that they are adequately prepared for the MEES update. For lenders, this includes reviewing their current lending criteria and conditions to check that the impacts of MEES on their security are accounted for.  Lenders and commercial landlords may also wish to consider reviewing the current EPC certificates on their commercial lending, to identify the properties affected by the updated regulations and ensure that the correct exemptions and remedial actions are put in place before the 2018 and 2023 deadlines.&lt;/p&gt;&lt;p&gt;For more information on this topic contact our commercial property team at &lt;a href=&quot;mailto:%20commerciallending@optimalegal.co.uk%20&quot;&gt;commerciallending@optimalegal.co.uk&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 14 Nov 2017 10:58:10 +0000</pubDate>
+ <dc:creator>sbeedham</dc:creator>
+ <guid isPermaLink="false">529 at https://360.optimalegal.co.uk</guid>
+ <comments>https://360.optimalegal.co.uk/news-insights/insights/are-you-prepared-governments-minimum-energy-efficiency-standards-update-set#comments</comments>
+</item>
+</channel>
+</rss>

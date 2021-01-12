@@ -1,0 +1,40 @@
+.ctools-locked {
+  color: red;
+  border: 1px solid red;
+  padding: 1em;
+}
+
+.ctools-owns-lock {
+  background: #FFFFDD none repeat scroll 0 0;
+  border: 1px solid #F0C020;
+  padding: 1em;
+}
+
+a.ctools-ajaxing,
+input.ctools-ajaxing,
+button.ctools-ajaxing,
+select.ctools-ajaxing {
+  padding-right: 18px !important;
+  background: url(/profiles/acquia/modules/ctools/images/status-active.gif) right center no-repeat;
+}
+
+div.ctools-ajaxing {
+  float: left;
+  width: 18px;
+  background: url(/profiles/acquia/modules/ctools/images/status-active.gif) center center no-repeat;
+}
+
+
+/*
+playback timings (ms):
+  exclusion.robots: 0.176
+  load_resource: 69.731
+  PetaboxLoader3.datanode: 173.868 (4)
+  exclusion.robots.policy: 0.164
+  esindex: 0.017
+  PetaboxLoader3.resolve: 24.052
+  RedisCDXSource: 4.441
+  LoadShardBlock: 176.948 (3)
+  CDXLines.iter: 25.964 (3)
+  captures_list: 211.272
+*/

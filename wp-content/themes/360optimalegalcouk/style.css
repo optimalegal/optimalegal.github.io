@@ -1,0 +1,63 @@
+/*
+Theme Name: 360optimalegalcouk
+
+
+*/
+
+.blog_cell,.blog_description, .blog_description h2, .blog_description h2 a, .widget_recent_entries ul li   { text-align:left; }
+
+.post { padding:20px; }
+
+.post h1 { text-align:left; }
+
+.post .entry-content { text-align:left; }
+
+
+.site-content {
+		float: left;
+		
+		width: 70%;
+
+		padding:25px;
+}
+
+.widget-area {
+/*
+		float: left;
+		width: 25%;
+		margin-left:50px;
+*/	
+
+}
+
+.widget ul { margin:0px; padding:0px; list-style:none; }
+
+#recent-posts-2 {    }
+
+.blog_description h6 { font-size:1em; }
+
+#recent-posts-2 a { font-size:0.8em; }
+
+
+.site-content nav {
+	clear: both;
+	line-height: 2;
+	overflow: hidden;
+}
+
+.site-content {
+	
+	margin: 1.714285714rem 0 0;
+}
+.site-content article {
+	border-bottom: 4px double #ededed;
+	margin-bottom: 72px;
+	margin-bottom: 5.142857143rem;
+	padding-bottom: 24px;
+	padding-bottom: 1.714285714rem;
+	word-wrap: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}
+
