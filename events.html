@@ -447,7 +447,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   <div class="content">
     <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="first leaf menu-mlid-593"><a href="/events/calendar" title="">Upcoming Events</a></li>
+  <ul class="menu"><!--<li class="first leaf menu-mlid-593"><a href="/events/calendar" title="">Upcoming Events</a></li>-->
 <li class="last collapsed menu-mlid-594"><a href="/events/past-events">Past Events</a></li>
 </ul></div>
   </div>
@@ -471,19 +471,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <div>
       
           <h1>Events</h1>    
-          <div class="aside"><div class="white-box"><p class="intro">Thinking about attending one of our events? We're passionate about sharing expertise with you.</p><div><a class="cta" href="/events/calendar">View upcoming events</a></div></div></div>    
-          <img typeof="foaf:Image" src="/sites/default/files/head-events.jpg" width="680" height="335" alt=""/>    </div>
+          
+	
+<div class="aside"><div class="white-box"><p class="intro">We're passionate about sharing expertise with you.</p><div><a class="cta" href="/events/past-events">View previous events</a></div></div></div>
+
+          <img typeof="foaf:Image" src="/sites/default/files/head-events.jpg" width="680" height="335" alt=""/>
+		  </div>
     </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
 </div>
-  </div>
-				</div></div> <!-- /.section, /#before-content -->
+
+
+</div></div></div></div></div> <!-- /.section, /#before-content -->
 						
 			<div id="content"><div class="section clearfix">
 				
@@ -524,7 +522,9 @@ HTML comment.
 			
 							<div id="sidebar-right"><div class="section clearfix">
 					  <div class="region region-sidebar-right">
-    <div id="block-views-events-block-4" class="block block-views pod callout event-list">
+<!--
+
+<div id="block-views-events-block-4" class="block block-views pod callout event-list">
 
     <h2>Upcoming Events</h2>
   
@@ -535,11 +535,8 @@ HTML comment.
   
       <div class="view-empty">
       <p class="module-caption">Currently no events are scheduled. Please check back soon.</p>    </div>
-  
-  
-  
-  
-  
+
+-->
   
 </div>  </div>
 </div>
