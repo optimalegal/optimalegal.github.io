@@ -741,7 +741,8 @@
 }
 	
 #block-tb-megamenu-main-menu .tb-megamenu .btn {
-	background: #00a1c1;
+	/*background: #00a1c1;*/
+	background: #fff;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
